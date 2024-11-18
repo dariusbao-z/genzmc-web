@@ -1,0 +1,72 @@
+{
+    "ip": "mine24h.com",
+    "server_name": "Mine24h",
+    "online_update": 10000,
+    "author": "Yuno",
+    "author_site": "https://asako.dev/",
+    "litebans": "https://web.mine24h.com/litebans",
+    "status": "https://status.mine24h.com/",
+    "home": {
+        "name": "MINE24H.COM",
+        "description": "Server Minecraft Việt Nam",
+        "online": "Số người online: %online%/%max%",
+        "join": {
+            "icon": null,
+            "text": "Tham gia ngay"
+        },
+        "facebook": "https://www.facebook.com/groups/fantasic.mc",
+        "discord": "https://dsc.gg/mine24h",
+        "logo": "Change in /src/img/logo.png",
+        "about": "Change in /src/components/Home.jsx",
+        "gamemode": "Change in /src/components/Home.jsx",
+        "vote": [
+            "https://namemc.com/server/mine24h.com",
+            "https://top.gg/servers/1077595978686795826/vote",
+            "https://minecraft-mp.com/server/320472/vote/"
+        ]
+    },
+    "rules": {
+        "info": {
+            "name": "Luật Server Mine24h",
+            "date": "13/07/2023 2:40 PM",
+            "author": "Alrustel"
+        },
+        "content": [
+            {
+                "name": "Tôn trọng và lịch sự",
+                "description": "Mọi thành viên trong server phải đối xử với nhau với sự tôn trọng và lịch sự. Bất kỳ hành vi thiếu tôn trọng, phân biệt chủng tộc, giới tính, quốc gia hoặc bất kỳ hành vi gây phiền nhiễu đến thành viên khác đều bị cấm."
+            },
+            {
+                "name": "Không gian cá nhân",
+                "description": "Hãy tôn trọng không gian cá nhân của nhau. Không phá hoại, đột nhập vào tài khoản hoặc cố gắng truy cập trái phép vào tài sản của người khác."
+            },
+            {
+                "name": "Sử dụng ngôn ngữ lịch sự",
+                "description": "Mọi thành viên cần sử dụng ngôn ngữ lịch sự và tránh sử dụng ngôn ngữ tục tĩu, xúc phạm hoặc thô tục."
+            },
+            {
+                "name": "Chấp hành quy định Minecraft",
+                "description": "Mọi người phải tuân thủ các quy tắc và hướng dẫn được đưa ra trong trò chơi Minecraft, bao gồm cấm hack, gian lận hoặc sử dụng bất kỳ phần mềm không chính thức nào."
+            },
+            {
+                "name": "Hợp tác và công bằng",
+                "description": "Khuyến khích tinh thần hợp tác và công bằng giữa các thành viên. Không được ăn cắp tài sản hoặc cố gắng gian lận trong trò chơi."
+            },
+            {
+                "name": "Bảo vệ dữ liệu cá nhân",
+                "description": "Không được chia sẻ thông tin cá nhân của bất kỳ ai mà không có sự đồng ý của họ. Bảo vệ quyền riêng tư và thông tin cá nhân của mọi người."
+            },
+            {
+                "name": "Phản hồi xây dựng",
+                "description": "Mọi thành viên đều được khuyến khích đóng góp ý kiến xây dựng và phản hồi cho server Discord và Minecraft. Hãy đề xuất ý tưởng, báo cáo sự cố hoặc đưa ra góp ý để cải thiện trải nghiệm cho tất cả mọi người."
+            },
+            {
+                "name": "Tuân thủ quyết định của quản trị viên",
+                "description": "Mọi thành viên phải tuân thủ quyết định và hướng dẫn của quản trị viên server. Nếu có bất kỳ tranh chấp, hãy giải quyết nó một cách lịch sự và không tạo ra sự căng thẳng trong cộng đồng."
+            }
+        ]
+    },
+    "charge": {
+        "url": "https://game.asako.dev/mine24h"
+    }
+}

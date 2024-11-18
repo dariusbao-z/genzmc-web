@@ -1,0 +1,26 @@
+Các phiên bản trước 0.297:
+- Đã build Routers, khung, sườn, style của web.
+- Hoàn thiện các NavLink Home, Nội Quy, Nạp Thẻ, Tải Game.
+- Đã sửa các vấn đề phát sinh ở UI/UX Responsive.
+- Loading bar xuất hiện khi chuyển qua tab khác.
+
+0.297 (29/07/2023):
+- Loại bỏ NavLink Support vì không cần thiết.
+- Thêm 2 NavLink mới: Vi phạm và Status.
+- Thêm chức năng kiểm tra số người chơi online.
+- Khi nhấn vào nút tham gia, thay vì chuyển sang trang mới thì sẽ copy IP của server và hiện thông báo.
+- Thêm phần thông tin về nội quy được ban hành, bao gồm Tên nội quy, Ngày ban hành và Người ban hành.
+
+0.307 (30/07/2023):
+- Fix button Vote chồng lên nhau trên giao diện điện thoại.
+- Fix lỗi responsive phát sinh ở phần Home.
+- Do card flex-box responsive hơi lố nên giảm width.
+- Sửa tên nút Tài Khoản thành Tham gia.
+
+0.317 (31/07/2023):
+- Hoàn thiện chức năng nạp thẻ (tự động gửi points).
+- Chuyển project từ CRA sang Vite.
+
+0.018 (01/08/2023):
+- Loại bỏ phần Bảng giá point, thay thế bằng Top Nạp Thẻ.
+- Mỗi khi chọn mệnh giá, bên dưới sẽ hiển thị sẽ point nhận được.

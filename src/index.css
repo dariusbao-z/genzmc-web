@@ -1,13 +1,32 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swal2-popup {
+    border-radius: 1rem;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.swal2-popup .swal2-styled {
+    padding: .65rem 1.75rem;
+    border-radius: .75rem;
+    background-color: #e35a10;
+    font-size: 16px;
+}
+
+.swal2-popup .swal2-styled:focus {
+    box-shadow: 0 0 0 3px #e35a1043;
+}
+
+div:where(.swal2-container) h2:where(.swal2-title) {
+    padding: .55em 1em 0!important;
+    color: inherit!important;
+    font-size: 1.975em!important;
+}
+
+div:where(.swal2-container) .swal2-html-container {
+    margin: 0.5em 1.6em .1em!important;
+}
+
+div:where(.swal2-container) div:where(.swal2-actions) {
+    margin-top: 1.25em!important;
 }
