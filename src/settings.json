@@ -2,8 +2,8 @@
     "ip": "mine24h.com",
     "server_name": "Mine24h",
     "online_update": 10000,
-    "author": "Yuno",
-    "author_site": "https://asako.dev/",
+    "author": "Ayano",
+    "author_site": "https://ayano.pw",
     "litebans": "https://web.mine24h.com/litebans",
     "status": "https://status.mine24h.com/",
     "home": {
@@ -67,6 +67,6 @@
         ]
     },
     "charge": {
-        "url": "https://game.asako.dev/mine24h"
+        "url": "https://103.252.93.243/test/mine24h"
     }
 }
