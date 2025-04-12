@@ -1,68 +1,65 @@
 {
-    "ip": "mine24h.com",
-    "server_name": "Mine24h",
+    "ip": "play.genzmc.click",
+    "server_name": "Genzmc",
     "online_update": 10000,
-    "author": "Ayano",
-    "author_site": "https://ayano.pw",
+    "author": "BaoDarius",
+    "author_site": "https://quocbao.info.vn",
     "litebans": "https://web.mine24h.com/litebans",
     "status": "https://status.mine24h.com/",
     "home": {
-        "name": "MINE24H.COM",
+        "name": "Genzmc",
         "description": "Server Minecraft Việt Nam",
         "online": "Số người online: %online%/%max%",
         "join": {
             "icon": null,
             "text": "Tham gia ngay"
         },
-        "facebook": "https://www.facebook.com/groups/fantasic.mc",
-        "discord": "https://dsc.gg/mine24h",
+        "facebook": "",
+        "discord": "",
         "logo": "Change in /src/img/logo.png",
         "about": "Change in /src/components/Home.jsx",
         "gamemode": "Change in /src/components/Home.jsx",
         "vote": [
-            "https://namemc.com/server/mine24h.com",
-            "https://top.gg/servers/1077595978686795826/vote",
-            "https://minecraft-mp.com/server/320472/vote/"
         ]
     },
     "rules": {
         "info": {
-            "name": "Luật Server Mine24h",
-            "date": "13/07/2023 2:40 PM",
-            "author": "Alrustel"
+            "name": "Luật Server GenMc",
+            "date": "....",
+            "author": "Xx_Darius_xX"
         },
         "content": [
             {
                 "name": "Tôn trọng và lịch sự",
-                "description": "Mọi thành viên trong server phải đối xử với nhau với sự tôn trọng và lịch sự. Bất kỳ hành vi thiếu tôn trọng, phân biệt chủng tộc, giới tính, quốc gia hoặc bất kỳ hành vi gây phiền nhiễu đến thành viên khác đều bị cấm."
+                "description": "Tất cả người chơi trong máy chủ cần đối xử với nhau một cách tôn trọng và lịch thiệp. Nghiêm cấm mọi hành vi kỳ thị về chủng tộc, giới tính, quốc tịch hoặc bất kỳ hình thức quấy rối nào đối với người chơi khác."
             },
             {
                 "name": "Không gian cá nhân",
-                "description": "Hãy tôn trọng không gian cá nhân của nhau. Không phá hoại, đột nhập vào tài khoản hoặc cố gắng truy cập trái phép vào tài sản của người khác."
+                "description": "Hãy tôn trọng không gian riêng tư của người khác. Nghiêm cấm việc phá hoại, xâm nhập tài khoản hoặc truy cập trái phép vào tài sản của người chơi khác."
             },
             {
                 "name": "Sử dụng ngôn ngữ lịch sự",
-                "description": "Mọi thành viên cần sử dụng ngôn ngữ lịch sự và tránh sử dụng ngôn ngữ tục tĩu, xúc phạm hoặc thô tục."
+                "description": "Tất cả người chơi phải sử dụng ngôn từ văn minh và tránh dùng từ ngữ thô tục, xúc phạm hoặc thiếu văn hóa trong giao tiếp."
             },
             {
                 "name": "Chấp hành quy định Minecraft",
-                "description": "Mọi người phải tuân thủ các quy tắc và hướng dẫn được đưa ra trong trò chơi Minecraft, bao gồm cấm hack, gian lận hoặc sử dụng bất kỳ phần mềm không chính thức nào."
+                "description": "Tất cả người chơi phải tuân theo các quy tắc chung của Minecraft, bao gồm việc không sử dụng hack, cheat hoặc bất kỳ phần mềm không được phép nào trong trò chơi."
             },
             {
                 "name": "Hợp tác và công bằng",
-                "description": "Khuyến khích tinh thần hợp tác và công bằng giữa các thành viên. Không được ăn cắp tài sản hoặc cố gắng gian lận trong trò chơi."
+                "description": "Chúng tôi khuyến khích tinh thần hợp tác và fair-play giữa các người chơi. Nghiêm cấm việc trộm cắp tài sản hoặc gian lận dưới mọi hình thức trong trò chơi."
             },
             {
                 "name": "Bảo vệ dữ liệu cá nhân",
-                "description": "Không được chia sẻ thông tin cá nhân của bất kỳ ai mà không có sự đồng ý của họ. Bảo vệ quyền riêng tư và thông tin cá nhân của mọi người."
+                "description": "Không chia sẻ thông tin cá nhân của bất kỳ ai khi chưa được sự cho phép. Hãy tôn trọng quyền riêng tư và bảo mật thông tin của tất cả người chơi."
             },
             {
                 "name": "Phản hồi xây dựng",
-                "description": "Mọi thành viên đều được khuyến khích đóng góp ý kiến xây dựng và phản hồi cho server Discord và Minecraft. Hãy đề xuất ý tưởng, báo cáo sự cố hoặc đưa ra góp ý để cải thiện trải nghiệm cho tất cả mọi người."
+                "description": "Chúng tôi luôn hoan nghênh mọi ý kiến đóng góp và phản hồi xây dựng cho cả máy chủ Discord và Minecraft. Hãy chia sẻ ý tưởng, báo cáo lỗi hoặc đề xuất cải tiến để nâng cao trải nghiệm chung cho cộng đồng."
             },
             {
                 "name": "Tuân thủ quyết định của quản trị viên",
-                "description": "Mọi thành viên phải tuân thủ quyết định và hướng dẫn của quản trị viên server. Nếu có bất kỳ tranh chấp, hãy giải quyết nó một cách lịch sự và không tạo ra sự căng thẳng trong cộng đồng."
+                "description": "Tất cả người chơi cần tuân theo các quyết định và hướng dẫn từ đội ngũ quản trị viên. Nếu có bất đồng, hãy giải quyết một cách hòa nhã và tránh gây căng thẳng trong cộng đồng."
             }
         ]
     },
